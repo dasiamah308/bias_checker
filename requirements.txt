@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+scikit-learn
+pandas
+joblib
+lxml
+tqdm
