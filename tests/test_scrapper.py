@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, Mock
-from scrapper import extract_text_from_url
+from src.core.scrapper import extract_text_from_url
 
 class TestExtractTextFromUrl(unittest.TestCase):
     @patch('scrapper.requests.get')
